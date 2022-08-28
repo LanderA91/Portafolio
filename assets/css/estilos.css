@@ -39,3 +39,17 @@ body {
   }
 
 }
+
+.card {
+  object-fit: cover;
+  max-width: 40rem;
+  transition: .2s;
+  padding: 2pt;
+}
+.card img {
+  object-fit: cover;
+}
+.card:hover {
+  transform: scale(1.1);
+  margin: 3pt;
+}
