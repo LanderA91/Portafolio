@@ -13,3 +13,7 @@
 ##Fork
 - Fork a Víctor Zamorano [Ver](https://github.com/iPolloyo/desafio_4_bootstrap) 
 - Fork a Sebastián Gómez [Ver](https://github.com/TheGreySam/prueba-viajes-chile2)
+
+##Commit
+- Commit en creación de README a (https://github.com/iPolloyo)
+- Commit en creación de README a (https://github.com/TheGreySam)
